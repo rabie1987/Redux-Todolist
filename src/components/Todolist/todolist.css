@@ -1,0 +1,22 @@
+.bouton {
+  border: none;
+  font-family: "Architects Daughter", cursive;
+  text-decoration: none;
+  background: mistyrose;
+  display: block;
+  padding: 5px;
+  height: 31px;
+  border-radius: 5px;
+  border: 1px solid #ff07b7;
+  font-size: small;
+  margin-right: 4px;
+}
+li {
+  text-align: left;
+  position: relative;
+  padding: 0.5rem;
+  font-size: large;
+}
+.ulbtn {
+  display: flex;
+}

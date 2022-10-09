@@ -1,0 +1,18 @@
+button {
+  background: mistyrose;
+  display: block;
+  padding: 2px 7px;
+  border-radius: 5px;
+  border: none;
+  font-size: small;
+  height: 31px;
+  padding: 3px;
+}
+.outline-secondary {
+  font-size: small;
+  margin-right: 4px;
+  margin-top: 8px;
+
+  height: 31px;
+  padding: 0px;
+}
